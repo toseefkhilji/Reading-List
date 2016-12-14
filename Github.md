@@ -1,4 +1,5 @@
-# Organizations
+## GitHub
+#### Organizations
 - [ ] [IFTTT](https://github.com/IFTTT)
 - [ ] [TypeLift](https://github.com/typelift)
 - [ ] [Zewo](https://github.com/Zewo)
@@ -10,8 +11,12 @@
 - [ ] [The New York Times](https://github.com/NYTimes)
 - [ ] [Cleveroad Inc.](https://github.com/Cleveroad)
 - [ ] [Mobile Jazz](https://github.com/mobilejazz)
+- [ ] [Khan Academy](https://github.com/Khan)
+- [ ] [Open Whisper Systems](https://github.com/WhisperSystems)
+- [ ] [Wire Swiss GmbH](https://github.com/wireapp)
+- [ ] [Apple](https://github.com/apple)
 
-# Profiles
+#### Profiles
 - [ ] [Vicc Alexander](https://github.com/ViccAlexander)
 - [ ] [Hoon H.](https://github.com/eonil)
 - [ ] [Sindre Sorhus](https://github.com/sindresorhus)
@@ -20,7 +25,7 @@
 - [ ] [Lucas Farah](https://github.com/lfarah)
 - [ ] [Jin Sasaki](https://github.com/jinSasaki)
 
-
+#### Profiles (To be sorted)
 - [ ] [iAchieved.it](https://github.com/iachievedit)
 - [ ] [Ricardo Borelli](https://github.com/rabc)
 - [ ] [Robert Payne](https://github.com/robertjpayne)
@@ -34,3 +39,7 @@
 - [ ] [Raul Riera](https://github.com/raulriera)
 - [ ] [Nick O'Neill](https://github.com/nickoneill)
 - [ ] [Bruno Candido Volpato da Cunha](https://github.com/brunocvcunha)
+- [ ] [Devran Ünal](https://github.com/Cosmo)
+- [ ] [Mohd Iftekhar Qurashi](https://github.com/hackiftekhar)
+- [ ] [Krzysztof Zabłocki](https://github.com/krzysztofzablocki)
+- [ ] [Chris Lattner](https://github.com/lattner)
